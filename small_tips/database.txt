@@ -1,0 +1,4 @@
+install psycopg2
+Type this command in the command line to install the package. Make sure you are still inn the virtual environment:
+
+pip install psycopg2-binary
